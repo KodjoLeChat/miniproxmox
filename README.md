@@ -127,16 +127,16 @@ pip install fastapi uvicorn[standard] pydantic libvirt-python
 
 ## Vidéo Démonstration
 
-Pour une démonstration complète de l'application, veuillez consulter la vidéo disponible via ce lien : **[https://drive.google.com/file/d/1oEWmfu7SdLgHu1-DwM0j2ec4LijXL-Ct/view?usp=sharing](#)**
+Pour une démonstration complète de l'application, veuillez consulter la vidéo disponible via ce lien : **[Lien vers la vidéo](https://drive.google.com/file/d/1oEWmfu7SdLgHu1-DwM0j2ec4LijXL-Ct/view?usp=sharing)**
 
 ---
 
 ## Auteurs
 
--  **SISSANI Moud & Pérès ALLAÏSSEM**
+-  **SISSANI Moud & ALLAÏSSEM Pérès**
 
 ---
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+Ce projet est sous licence MIT.
